@@ -11,8 +11,6 @@ const DemoRedux = () => {
     data: state.app,
   }));
 
-  console.log("data", data);
-
   return (
     <div>
       <button
