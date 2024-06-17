@@ -15,3 +15,5 @@ bun dev
 ```
 
 // thunk - a piece of code that delay the work
+## Redux
+## Context API
